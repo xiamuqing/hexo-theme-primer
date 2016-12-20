@@ -1,0 +1,31 @@
+menus:
+	- 
+		name: 首页
+		link: /
+	- 
+		name: 分类
+		link: categories/
+	- 
+		name: 开源项目
+		link: open-source/
+	- 
+		name: 留言板
+		link: message/
+
+# Profile
+profile:
+	location: GuangZhou, China
+	github: xiamuqing
+	#stackoverflow: 
+		#title: xiamuqing
+		#href: https://github.com/xiamuqing
+	#organization: 组织/公司
+
+#Github
+github: 
+	username: xiamuqing
+  popular_repos: [ysale-sms,scude-answer,cordova-plugin-alipay]
+
+#Comments
+duoshuo_username: xiamuqing # 多说配置
+#disqus_username: xiamuqing # disqus 配置
